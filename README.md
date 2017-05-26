@@ -23,6 +23,7 @@ Restart eclipse after the installation.
 Then it is time to start a new C++ project.
 
 **Install Qt**
+
 As I would like to create a GUI, I need to install Qt.
 ```
 sudo apt-get install qt5-default qt5-doc  
